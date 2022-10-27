@@ -20,7 +20,7 @@ Link: https://flightfareprediction.herokuapp.com
 This is a Flask web app which predicts fare of Flight ticket.
 
 ## Motivation
-What to do when you are at home due to this pandemic situation? I started to learn Machine Learning model to get most out of it. I came to know mathematics behind all supervised models. Finally it is important to work on application (real world application) to actually make a difference.
+Most of us wonder about the fare when it comes to book air tickets online, we have to check for the flight tickets again and again to ensure we get the cheapest price of all. This idea came to my mind that what if we can compare the prices using a simple prediction tool using some machine learning model to develop an application that can actually serve as real-time flight fare prediction tool.
 
 ## Installation
 The Code is written in Python 3.6.10. If you don't have Python installed you can find it [here](https://www.python.org/downloads/). If you are using a lower version of Python you can upgrade using the pip package, ensuring you have the latest version of pip. To install the required packages and libraries, run this command in the project directory after [cloning](https://www.howtogeek.com/451360/how-to-clone-a-github-repository/) the repository:
